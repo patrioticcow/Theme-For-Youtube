@@ -1,0 +1,91 @@
+#body-container{
+	color :#E9E9E9 !important;
+}
+#body-container, .add-to-widget .playlist-status, .add-to-widget .contains-all-selected-videos.to-be-removed .playlist-status,
+.add-to-widget .contains-some-selected-videos.to-be-removed .playlist-status{
+	background :#414141 !important;
+}
+#yt-masthead-container, #masthead-appbar, #body-container #page-container{
+	background :#1B1B1B !important;
+}
+#appbar-guide-menu, .guide-flyout, .yt-card, .yt-ui-menu-content{
+	background :#323232 !important;
+}
+#yt-masthead-user #sb-button-notify{
+	background :#F0F0F0 !important;
+}
+.add-to-widget .addto-playlist-item:hover, .add-to-widget .create-playlist-item:hover{
+	background :#414141 !important;
+}
+#yt-uix-button-content, .epic-nav-item-heading, .yt-uix-button img, .yt-uix-button-icon-wrapper + .yt-uix-button-content{
+	color :#CCCCCC !important;
+}
+#appbar-nav .yt-uix-button.yt-uix-button-epic-nav-item{
+	color :#E2E2E2 !important;
+}
+.yt-default h1, .yt-default h2, .yt-default h3, .yt-default h4, .yt-default h5, .yt-default h6, h1.yt, h2.yt, h3.yt, h4.yt, h5.yt, h6.yt,
+#watch7-sidebar .watch-sidebar-head, .video-list .video-list-item .title, .add-to-widget .addto-playlist-item, .guide-item,
+.yt-ui-menu-item, #watch-description, .watch8 .watch-extras-section .title, .watch8 .watch-extras-section .content,
+.not-watch8 #watch7-user-header .yt-user-name, #watch7-user-header .yt-user-info a, .watch8 #action-panel-details a, .pl-video-title-link,
+.c4-checklist-module .todo-title-text, .branded-page-module-title, .category-header .category-title{
+	color :#E9E9E9 !important;
+}
+#watch7-sidebar .watch-sidebar-head a, #watch7-sidebar .watch-sidebar-foot a{
+	color :#666666 !important;
+}
+#yt-masthead-container, .guide-section-separator, .yt-card .yt-uix-tabs, #footer-main, #masthead-appbar,
+.branded-page-v2-primary-col .branded-page-box, .section-list li .item-section .branded-page-box, .feed-header, .pl-video,
+#c4-header-bg-container, .branded-page-v2-subnav-container, .branded-page-v2-subnav-container, .yt-lockup-playlist-item,
+.search-header{
+	border-bottom :1px solid #1B1B1B !important;
+}
+#watch8-action-buttons, .yt-card .yt-uix-button-expander, .guide-flyout, .pl-video, #about-business-email-form, .about-metadata-editor-form,
+#subscription-manager-container .empty-message, .subscription-table-header, #subscription-manager-container .subscription-item,
+#subscription-manager-container .collection-item{
+	border-top :1px solid #1B1B1B !important;
+}
+.yt-ui-menu-content, .c4-checklist-module, #watch7-creator-bar, .yt-badge, .guide-flyout, .yt-gb-shelf-main-content{
+	border :1px solid #1B1B1B !important;
+}
+#body-container #footer-container{
+	background :#1B1B1B !important;
+	border-top :1px solid #1B1B1B !important;
+}
+.guide-pinned .guide-pinning-enabled #appbar-guide-menu{
+	border-right :1px solid #1B1B1B !important;
+}
+.yt-ui-ellipsis, .yt-thumb, .related-channels-editor:hover, .c4-module-editor-form, .yt-uix-expander-ellipsis{
+	background :none !important;
+}
+.branded-page-module-title a:visited, .branded-page-module-title a, .yt-lockup-title a, .yt-lockup:hover a,
+.yt-lockup:hover .yt-lockup-meta a, .yt-lockup:hover .yt-lockup-description a, .yt-lockup .yt-lockup-meta a, .yt-lockup .yt-lockup-description a,
+.yt-lockup, #yt-uix-videoactionmenu-menu h3, #subscription-manager-container .subscription-title, #subscription-manager-container .collection-title,
+.yt-gb-shelf-hero-content .description{
+	color :#E2E2E2 !important;
+}
+body #footer-container{
+	background :#1B1B1B !important;
+	border-top :1px solid #1B1B1B !important;
+}
+li.channels-content-item.yt-shelf-grid-item{
+	background    :#272727 !important;
+	text-align    :center !important;
+	padding       :16px 0 !important;
+	border-radius :6px !important;
+}
+.yt-lockup-grid .yt-lockup-title{
+	max-width :none !important;
+}
+.yt-ui-menu-content:hover > .selected:hover, .selected, .yt-uix-menu-trigger-selected .yt-ui-menu-item, .yt-ui-menu-item:hover,
+.yt-uix-menu-trigger-selected .yt-ui-menu-item, .yt-ui-menu-item:hover, .yt-ui-menu-item:focus{
+	background :#444444 !important;
+}
+.yt-gb-shelf-main-content:hover, .yt-gb-shelf-main-content{
+	box-shadow :none !important;
+}
+li.guide-section h3 a{ color :#FF3C42 !important; }
+.all-comments, .all-comments a{ background :none !important; }
+.mj{ background-color :#323232 !important; }
+.comments .comment-footer-action{ color :#FFFFFF !important; }
+a.yt-uix-button.yt-uix-button-epic-nav-item, button.yt-uix-button-epic-nav-item, .epic-nav-item{ color :#AFAFAF !important; }
+.channel-header .branded-page-header-title .branded-page-header-title-link{ color :#CC181E !important; }
