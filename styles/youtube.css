@@ -23,6 +23,7 @@
 #appbar-nav .yt-uix-button.yt-uix-button-epic-nav-item{
 	color :#E2E2E2 !important;
 }
+#action-panel-details a{ color :#BEBEBE; !important }
 .yt-default h1, .yt-default h2, .yt-default h3, .yt-default h4, .yt-default h5, .yt-default h6, h1.yt, h2.yt, h3.yt, h4.yt, h5.yt, h6.yt,
 #watch7-sidebar .watch-sidebar-head, .video-list .video-list-item .title, .add-to-widget .addto-playlist-item, .guide-item,
 .yt-ui-menu-item, #watch-description, .watch8 .watch-extras-section .title, .watch8 .watch-extras-section .content,
@@ -87,5 +88,6 @@ li.guide-section h3 a{ color :#FF3C42 !important; }
 .all-comments, .all-comments a{ background :none !important; }
 .mj{ background-color :#323232 !important; }
 .comments .comment-footer-action{ color :#FFFFFF !important; }
+.comments .channel-owner .comment-header .user-name, .mj{ background-color :#323232 !important; }
 a.yt-uix-button.yt-uix-button-epic-nav-item, button.yt-uix-button-epic-nav-item, .epic-nav-item{ color :#AFAFAF !important; }
 .channel-header .branded-page-header-title .branded-page-header-title-link{ color :#CC181E !important; }

@@ -17,6 +17,6 @@
    "name": "Theme for Youtube™",
    "permissions": [ "tabs", "history", "management", "http://*/*", "https://*/*" ],
    "update_url": "https://clients2.google.com/service/update2/crx",
-   "version": "0.7.0",
+   "version": "0.8.0",
    "web_accessible_resources": [ "styles/cusiframe.css", "styles/youtube.css", "scripts/jquery-1.11.2.min.js" ]
 }

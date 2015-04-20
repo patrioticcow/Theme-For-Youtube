@@ -22,9 +22,11 @@ function runFunction() {
  });
  */
 
-if (window.location.host === 'www.youtube.com') addStyles();
+if (window.location.host === 'www.youtube.com') {
+	addStyles();
 
-var comments = setInterval(commentsShow, 1000);
+	var comments = setInterval(commentsShow, 100);
+}
 
 function commentsShow() {
 	var allComments = $('.all-comments');
