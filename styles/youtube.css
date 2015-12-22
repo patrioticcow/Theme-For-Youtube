@@ -1,93 +1,79 @@
-#body-container{
-	color :#E9E9E9 !important;
-}
-#body-container, .add-to-widget .playlist-status, .add-to-widget .contains-all-selected-videos.to-be-removed .playlist-status,
-.add-to-widget .contains-some-selected-videos.to-be-removed .playlist-status{
-	background :#414141 !important;
-}
-#yt-masthead-container, #masthead-appbar, #body-container #page-container{
-	background :#1B1B1B !important;
-}
-#appbar-guide-menu, .guide-flyout, .yt-card, .yt-ui-menu-content{
-	background :#323232 !important;
-}
-#yt-masthead-user #sb-button-notify{
-	background :#F0F0F0 !important;
-}
-.add-to-widget .addto-playlist-item:hover, .add-to-widget .create-playlist-item:hover{
-	background :#414141 !important;
-}
-#yt-uix-button-content, .epic-nav-item-heading, .yt-uix-button img, .yt-uix-button-icon-wrapper + .yt-uix-button-content{
-	color :#CCCCCC !important;
-}
-#appbar-nav .yt-uix-button.yt-uix-button-epic-nav-item{
-	color :#E2E2E2 !important;
-}
-#action-panel-details a{ color :#BEBEBE; !important }
+#body-container { color : #E9E9E9 !important; }
+#body-container, .add-to-widget .playlist-status, .add-to-widget .contains-all-selected-videos.to-be-removed .playlist-status, .add-to-widget .contains-some-selected-videos.to-be-removed .playlist-status { background : #414141 !important; }
+#yt-masthead-container, #masthead-appbar, #body-container #page-container { background : #1B1B1B !important; }
+#appbar-guide-menu, .guide-flyout, .yt-card, .yt-ui-menu-content { background : #323232 !important; }
+#yt-masthead-user #sb-button-notify { background : #F0F0F0 !important; }
+.add-to-widget .addto-playlist-item:hover, .add-to-widget .create-playlist-item:hover { background : #414141 !important; }
+#yt-uix-button-content, .epic-nav-item-heading, .yt-uix-button img, .yt-uix-button-icon-wrapper + .yt-uix-button-content { color : #CCC !important; }
+#appbar-nav .yt-uix-button.yt-uix-button-epic-nav-item { color : #E2E2E2 !important; }
+#action-panel-details a { color : #BEBEBE; !important }
 .yt-default h1, .yt-default h2, .yt-default h3, .yt-default h4, .yt-default h5, .yt-default h6, h1.yt, h2.yt, h3.yt, h4.yt, h5.yt, h6.yt,
 #watch7-sidebar .watch-sidebar-head, .video-list .video-list-item .title, .add-to-widget .addto-playlist-item, .guide-item,
 .yt-ui-menu-item, #watch-description, .watch8 .watch-extras-section .title, .watch8 .watch-extras-section .content,
 .not-watch8 #watch7-user-header .yt-user-name, #watch7-user-header .yt-user-info a, .watch8 #action-panel-details a, .pl-video-title-link,
-.c4-checklist-module .todo-title-text, .branded-page-module-title, .category-header .category-title{
-	color :#E9E9E9 !important;
-}
-#watch7-sidebar .watch-sidebar-head a, #watch7-sidebar .watch-sidebar-foot a{
-	color :#666666 !important;
-}
+.c4-checklist-module .todo-title-text, .branded-page-module-title, .category-header .category-title { color : #E9E9E9 !important; }
+#watch7-sidebar .watch-sidebar-head a, #watch7-sidebar .watch-sidebar-foot a { color : #666 !important; }
 #yt-masthead-container, .guide-section-separator, .yt-card .yt-uix-tabs, #footer-main, #masthead-appbar,
 .branded-page-v2-primary-col .branded-page-box, .section-list li .item-section .branded-page-box, .feed-header, .pl-video,
 #c4-header-bg-container, .branded-page-v2-subnav-container, .branded-page-v2-subnav-container, .yt-lockup-playlist-item,
-.search-header{
-	border-bottom :1px solid #1B1B1B !important;
-}
+.search-header { border-bottom : 1px solid #1B1B1B !important; }
 #watch8-action-buttons, .yt-card .yt-uix-button-expander, .guide-flyout, .pl-video, #about-business-email-form, .about-metadata-editor-form,
 #subscription-manager-container .empty-message, .subscription-table-header, #subscription-manager-container .subscription-item,
-#subscription-manager-container .collection-item{
-	border-top :1px solid #1B1B1B !important;
-}
-.yt-ui-menu-content, .c4-checklist-module, #watch7-creator-bar, .yt-badge, .guide-flyout, .yt-gb-shelf-main-content{
-	border :1px solid #1B1B1B !important;
-}
-#body-container #footer-container{
-	background :#1B1B1B !important;
-	border-top :1px solid #1B1B1B !important;
-}
-.guide-pinned .guide-pinning-enabled #appbar-guide-menu{
-	border-right :1px solid #1B1B1B !important;
-}
-.yt-ui-ellipsis, .yt-thumb, .related-channels-editor:hover, .c4-module-editor-form, .yt-uix-expander-ellipsis{
-	background :none !important;
-}
+#subscription-manager-container .collection-item { border-top : 1px solid #1B1B1B !important; }
+.yt-ui-menu-content, .c4-checklist-module, #watch7-creator-bar, .yt-badge, .guide-flyout, .yt-gb-shelf-main-content { border : 1px solid #1B1B1B !important; }
+#body-container #footer-container { background : #1B1B1B !important; border-top : 1px solid #1B1B1B !important; }
+.guide-pinned .guide-pinning-enabled #appbar-guide-menu { border-right : 1px solid #1B1B1B !important; }
+.yt-ui-ellipsis, .yt-thumb, .related-channels-editor:hover, .c4-module-editor-form, .yt-uix-expander-ellipsis { background : none !important; }
 .branded-page-module-title a:visited, .branded-page-module-title a, .yt-lockup-title a, .yt-lockup:hover a,
 .yt-lockup:hover .yt-lockup-meta a, .yt-lockup:hover .yt-lockup-description a, .yt-lockup .yt-lockup-meta a, .yt-lockup .yt-lockup-description a,
 .yt-lockup, #yt-uix-videoactionmenu-menu h3, #subscription-manager-container .subscription-title, #subscription-manager-container .collection-title,
-.yt-gb-shelf-hero-content .description{
-	color :#E2E2E2 !important;
-}
-body #footer-container{
-	background :#1B1B1B !important;
-	border-top :1px solid #1B1B1B !important;
-}
-li.channels-content-item.yt-shelf-grid-item{
-	background    :#272727 !important;
-	text-align    :center !important;
-	padding       :16px 0 !important;
-	border-radius :6px !important;
-}
-.yt-lockup-grid .yt-lockup-title{
-	max-width :none !important;
-}
+.yt-gb-shelf-hero-content .description { color : #E2E2E2 !important; }
+body #footer-container { background : #1B1B1B !important; border-top : 1px solid #1B1B1B !important; }
+li.channels-content-item.yt-shelf-grid-item { background : #272727 !important; text-align : center !important; padding : 16px 0 !important; border-radius : 6px !important; }
+.yt-lockup-grid .yt-lockup-title { max-width : none !important; }
 .yt-ui-menu-content:hover > .selected:hover, .selected, .yt-uix-menu-trigger-selected .yt-ui-menu-item, .yt-ui-menu-item:hover,
-.yt-uix-menu-trigger-selected .yt-ui-menu-item, .yt-ui-menu-item:hover, .yt-ui-menu-item:focus{
-	background :#444444 !important;
-}
-.yt-gb-shelf-main-content:hover, .yt-gb-shelf-main-content{
-	box-shadow :none !important;
-}
-li.guide-section h3 a{ color :#FF3C42 !important; }
-.all-comments, .all-comments a{ background :none !important; }
-.mj{ background-color :#323232 !important; }
-.comments .comment-footer-action{ color :#FFFFFF !important; }
-.comments .channel-owner .comment-header .user-name, .mj{ background-color :#323232 !important; }
-a.yt-uix-button.yt-uix-button-epic-nav-item, button.yt-uix-button-epic-nav-item, .epic-nav-item{ color :#AFAFAF !important; }
-.channel-header .branded-page-header-title .branded-page-header-title-link{ color :#CC181E !important; }
+.yt-uix-menu-trigger-selected .yt-ui-menu-item, .yt-ui-menu-item:hover, .yt-ui-menu-item:focus { background : #444 !important; }
+.yt-gb-shelf-main-content:hover, .yt-gb-shelf-main-content { box-shadow : none !important; }
+li.guide-section h3 a { color : #FF3C42 !important; }
+.all-comments, .all-comments a { background : none !important; }
+.mj { background-color : #323232 !important; }
+.comments .comment-footer-action { color : #FFF !important; }
+.comments .channel-owner .comment-header .user-name, .mj { background-color : #323232 !important; }
+a.yt-uix-button.yt-uix-button-epic-nav-item, button.yt-uix-button-epic-nav-item, .epic-nav-item { color : #AFAFAF !important; }
+.channel-header .branded-page-header-title .branded-page-header-title-link { color : #CC181E !important; }
+.upload-sidebar-header, .creator-editor-nav-tabs a, .creator-editor-title a { color : #F8F8F8 !important; }
+.upload-footer-header, #player-and-info-pane #video-info dt, #player-and-info-pane #video-info dd, #player-and-info-pane #video-info h2, li.epic-nav-item a { color : #F8F8F8 !important; }
+.upload-other-options-list .upload-option-text, #creator-subheader h2, #creator-sidebar .creator-sidebar-branding h1 { color : #F8F8F8 !important; }
+#creator-sidebar .creator-sidebar-section a { color : #F8F8F8 !important; }
+h3, h2, h1 { text-shadow : none !important; }
+#dashboard-header h2 a { color : #F8F8F8 !important; }
+.dashboard-stat-value, .dashboard-stat-name, .add-widget-button-label { color : #F8F8F8 !important; text-shadow : none !important; }
+.tab-container, .blur-effect-entry, .creator-editor-nav, .creator-editor-header, .metadata-editor-container .subnav, .creator-editor-content #inline-editor-header { border-bottom : 1px solid #1B1B1B !important; }
+#enhance-footer { border-top : 1px solid #1B1B1B !important; }
+.translation-editor-header .translation-editor-column-half, .translation-editor-header .translation-editor-column-divider { border-bottom : 1px solid #1B1B1B !important; }
+.metadata-editor-container .video-settings-form { background : #323232 !important; }
+.basic-info-tab .video-settings-tag-chips-container { background : #FFF !important; }
+.monetize-with-ads.monetize-options-box { background : #323232 !important; box-shadow : 0 1px 0 #323232 !important; }
+hr.metadata-separator-line { border-color : #323232 !important; border-bottom : 1px solid #1B1B1B !important; }
+#inline-editor-main { background-color : #323232 !important; }
+.enhance-effect .property-title, .blur-effect-entry .blur-effect-title, .blur-effect-entry .blur-effect-explanation, .blur-effect-footnote, .blur-effect-footnote { color : #F8F8F8 !important; }
+#featured-tracks-header { border : 1px solid #1B1B1B !important; background-color : #1B1B1B !important; }
+#audio-ui-search-input-field { background-color : #323232 !important; border : #323232 1px solid !important; }
+.audio-ui-featured-row { border : 1px solid #1B1B1B !important; }
+.audio-ui-featured-row td, .audio-ui-featured-tracks-header-title, .audio-ui-featured-tracks-header-title p.header-subtitle { color : #F8F8F8 !important; }
+#audio-ui-pagefold { border-top : 1px solid #1B1B1B !important; border-bottom : 1px solid #1B1B1B !important; }
+#annotator-div { background : #323232 !important; border : 1px solid #323232 !important; }
+#annotator-add-div, #annotator-select-div { border-bottom : 1px solid #1B1B1B !important; }
+.annotator-container .annotator-list-item, .annotator-container .annotator-list-item-text, .annotator-container .annotator-card-count-msg, .annotator-container .annotator-list-item-name { color : #F8F8F8 !important; }
+.annotator-container .annotator-list-item { background : transparent !important; }
+.timedtext-content { background-color : #323232 !important; }
+#add-captions-section { border-bottom : 1px solid #1B1B1B !important; }
+#bottom-notes-section, #video-settings-section { border-top : 1px solid #1B1B1B !important; }
+.yt-lockup .yt-lockup-byline a, .lohp-video-metadata .view-count, .comment-renderer-header .comment-renderer-time a, #comment-section-renderer .comment-renderer-reply, .comment-section-header-renderer { color : #FFF !important; }
+.lohp-video-metadata, .pl-video-owner a, #pl-header .pl-header-details, .primary-header-contents .view-as-menu .view-as-menu-trigger, .empty-shelf-text, .video-player-view-component .description, .video-player-view-component .view-count .count, .video-player-view-component .view-count .content-item-time-created { color : #F8F8F8 !important; }
+.c4-checklist-module .view-all-link a, .yt-uix-form-label { color : #F8F8F8 !important; }
+.lohp-video-metadata .yt-user-name { color : #FFF !important; }
+.comment-simplebox-renderer-collapsed-content { background : #FFF !important; color : #323232 !important; }
+.guide-item .guide-countt, #watch8-action-buttons .yt-uix-button, label, .watch-view-count { color : #FFF !important; }
+.about-stats .about-stat, .about-metadata-label, .branded-page-v2-primary-col .about-description.branded-page-box-padding { color : #F8F8F8 !important; }
+.video-list .video-list-item .stat, .pl-video-owner { color : #D1D1D1 !important; }
