@@ -100,28 +100,28 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="voipdialing-leads">
+      <paths name="leads">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="voipdialing-new">
+      <paths name="new">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="voipdialing-xcrm">
+      <paths name="xcrm">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="voipdialing_production">
+      <paths name="production">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
